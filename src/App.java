@@ -71,7 +71,7 @@ public class App {
 
  
 
-        WebElement address = driver.findElement(By.name("address"));
+        WebElement address = driver.findElement(By.name("address1"));
 
         address.sendKeys("Araul");
 
